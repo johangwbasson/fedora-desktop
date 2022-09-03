@@ -1,0 +1,14 @@
+
+127.0.0.1       rabbitmq
+127.0.0.1       postgres
+127.0.0.1       discovery-registry
+
+127.0.0.1       core-service
+127.0.0.1       gateway-service
+127.0.0.1       security-service
+127.0.0.1       demo.endpointcloud.local
+127.0.0.1       endpointcloud.local
+127.0.0.1       mongo
+127.0.0.1       beta.endpointcloud.local
+
+192.168.1.215   dogmatix
